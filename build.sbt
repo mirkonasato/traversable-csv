@@ -1,7 +1,8 @@
 name := "traversable-csv"
 
-version := "0.1"
+version := "0.2"
 
-scalaVersion := "2.9.1"
+scalaVersion := "2.9.2"
 
-libraryDependencies += "net.sf.opencsv" % "opencsv" % "2.3"
+libraryDependencies += "org.scalatest" %% "scalatest" % "1.7.2" % "test"
+
