@@ -1,0 +1,5 @@
+1	one	'plain'
+2	two	'plain'
+3	three	'quote: \' escaped'
+4	four	'escape: \\ escaped'
+5	five	'plain'
